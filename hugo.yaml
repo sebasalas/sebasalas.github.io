@@ -1,0 +1,7 @@
+baseURL: "https://sebasalas.github.io"
+languageCode: en-us
+title: Sebastián Salas
+theme: PaperMod
+caches:
+  images:
+    dir: :cacheDir/images
