@@ -94,5 +94,4 @@ You have two options for installing the Eclipse IDE:
 
 ---
 
-> [!note] Note
 > Eclipse will automatically reopen the MQ Explorer perspective on startup if it was the last one you used.
