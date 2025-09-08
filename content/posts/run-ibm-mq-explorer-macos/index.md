@@ -1,6 +1,6 @@
 ---
 title: "How to Run IBM MQ Explorer on macOS"
-date: 2025-09-07T22:48:00-03:00
+date: 2025-09-07
 tags: ["guide", "mqexplorer", "eclipse", "macos"]
 ---
 This guide provides step-by-step instructions for installing and configuring IBM MQ Explorer on macOS using the Eclipse IDE.
