@@ -43,7 +43,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  ShowToc: false
+  ShowToc: true
   TocOpen: false
 
   assets:
