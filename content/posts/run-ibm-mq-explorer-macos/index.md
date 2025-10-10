@@ -1,7 +1,7 @@
 ---
 title: "How to Run IBM MQ Explorer on macOS"
 date: 2025-09-07
-tags: ["guide", "mqexplorer", "eclipse", "macos"]
+tags: ["tutorial", "ibm-mq", "mqexplorer", "eclipse", "macos"]
 ---
 This guide provides step-by-step instructions for installing and configuring IBM MQ Explorer on macOS using the Eclipse IDE.
 
@@ -21,6 +21,8 @@ You have two options for installing the Eclipse IDE:
 
     Download the installer directly from the Eclipse website:
     [https://www.eclipse.org/downloads/packages/release/2025-06/r/eclipse-ide-eclipse-committers](https://www.eclipse.org/downloads/packages/release/2025-06/r/eclipse-ide-eclipse-committers)
+
+---
 
 ## 2. Install IBM MQ Explorer in Eclipse IDE
 
@@ -52,6 +54,8 @@ You have two options for installing the Eclipse IDE:
 
     ![The 'Software Updates' dialog box prompting the user to restart the IDE, with the 'Restart Now' button highlighted.](./07.png)
 
+---
+
 ## 3. Open the IBM MQ Explorer Perspective
 
 1.  From the main menu, go to **Window > Perspective > Open Perspective > Other...**.
@@ -74,6 +78,8 @@ You have two options for installing the Eclipse IDE:
 
     ![The main IBM MQ Explorer interface within Eclipse, showing the Navigator panel on the left and the 'Welcome' content panel on the right.](./12.png)
 
+---
+
 ## 4. Import MQ Queues (from XML)
 
 1.  In the MQ Explorer Navigator, right-click on **IBM MQ** and select **Import MQ Explorer Settings...**.
@@ -94,4 +100,8 @@ You have two options for installing the Eclipse IDE:
 
 ---
 
-> Eclipse will automatically reopen the MQ Explorer perspective on startup if it was the last one you used.
+## Conclusion
+
+You now have IBM MQ Explorer fully configured on your macOS system. This powerful tool allows you to manage IBM MQ queue managers, queues, and messages through an intuitive graphical interface. Whether you're developing applications that interact with IBM MQ or managing existing queue infrastructure, MQ Explorer provides the visibility and control you need.
+
+> **Tip**: Eclipse will automatically reopen the MQ Explorer perspective on startup if it was the last one you used.
